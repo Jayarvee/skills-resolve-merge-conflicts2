@@ -1,3 +1,3 @@
-# References
+Test for forced conflict.
 
-* octocat 1 😈
+
